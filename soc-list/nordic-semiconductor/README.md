@@ -1,6 +1,6 @@
 [<- SoC List](..)
 
-# Index
+# Nordic Semiconductor
 - [nRF52832](#nrf52832)
 - [nRF51822](#nrf51822)
 
