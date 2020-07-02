@@ -7,7 +7,7 @@
 | Device | Price |
 |-|-:|
 | [Pine64 PineTime](nordic-semiconductor/pinetime.md) | $24.99 |
-| [P8](nordic-semiconductor/p8.md) | $39.95 |
+| [P8](nordic-semiconductor/p8.md) | $11.99 |
 
 ### nRF51822
 
