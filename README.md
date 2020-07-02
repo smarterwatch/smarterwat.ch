@@ -6,5 +6,6 @@ Smartwatch hacking, information, and buying advice
 - [SoC List](soc-list)
 
 ## Communities
-- Discord: [https://discord.com/invite/TRktBnv](https://discord.com/invite/TRktBnv)
+- GitHub: [https://github.com/smarterwatch](https://github.com/smarterwatch)
 - Reddit: [https://www.reddit.com/r/smarterwatch](https://www.reddit.com/r/smarterwatch)
+- Discord: [https://discord.com/invite/TRktBnv](https://discord.com/invite/TRktBnv)
