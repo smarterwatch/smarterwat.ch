@@ -1,6 +1,6 @@
 # smarterwat.ch
 
-smarterwat.ch website
+Smartwatch hacking, information, and buying advice
 
 Other communities:
 - Discord: https://discord.gg/TRktBnv
