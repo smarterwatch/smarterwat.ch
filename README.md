@@ -3,5 +3,5 @@
 Smartwatch hacking, information, and buying advice
 
 Other communities:
-- Discord: https://discord.gg/TRktBnv
-- Reddit: https://www.reddit.com/r/smarterwatch/
+- Discord: [https://discord.gg/TRktBnv](https://discord.gg/TRktBnv)
+- Reddit: [https://www.reddit.com/r/smarterwatch](https://www.reddit.com/r/smarterwatch)
