@@ -3,7 +3,7 @@
 Smartwatch hacking, information, and buying advice
 
 ## Index
-- [SoC list](soc-list.md)
+- [SoC list](soc-list)
 
 Other communities:
 - Discord: [https://discord.com/invite/TRktBnv](https://discord.com/invite/TRktBnv)
