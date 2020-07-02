@@ -1,6 +1,7 @@
 [<- SoC List](..)
 
 # Nordic Semiconductor
+- [nRF52840](#nrf52840)
 - [nRF52832](#nrf52832)
 - [nRF51822](#nrf51822)
 
