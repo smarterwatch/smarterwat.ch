@@ -8,8 +8,8 @@
 
 | Device | Price |
 |-|-:|
-| [Pine64 PineTime](pinetime.md) | $24.99 |
 | [P8](p8.md) | $11.99 |
+| [Pine64 PineTime](pinetime.md) | $24.99 |
 
 ## nRF51822
 

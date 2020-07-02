@@ -13,6 +13,6 @@ Pine64 PineTime
 
 | Vendor | Price | URL |
 |-|-:|-|
-| Pine64 | $24.99 | https://store.pine64.org/?product=pinetime-dev-kit | 
+| Pine64 | $24.99 | [https://store.pine64.org/?product=pinetime-dev-kit](https://store.pine64.org/?product=pinetime-dev-kit) | 
 
 ## General Information
