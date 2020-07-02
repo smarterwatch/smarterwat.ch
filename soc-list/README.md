@@ -1,5 +1,3 @@
-[<- SoC List](..)
-
 # Smartwatch SoCs
 A list of smart watches and their corresponding SoC and price (USD)
 
