@@ -1,3 +1,5 @@
+[<- Nordic Semiconductor](.)
+
 # PineTime
 Pine64 PineTime
 
