@@ -17,3 +17,10 @@ SWD programming test points can be found on the back of both PCBs
 | BMA222 Accelerometer | [Link](http://dl.btc.pl/kamami_wa/bma222.pdf) |
 | PARAGON 25F08 8MBit Flash | [Link](http://j5d2v7d7.stackpathcdn.com/wp-content/uploads/2018/12/PN25F08-datasheet.pdf) |
 
+## PCB Photos
+
+<img src="Images/id107back.JPG" alt=" " width=" 400" />
+<img src="Images/id107front.JPG" alt=" " width=" 400" />
+<img src="Images/id115back.JPG" alt=" " width=" 400" />
+<img src="Images/id115front.JPG" alt=" " width=" 400" />
+<img src="Images/comparison107115.JPG" alt=" " width=" 500" />
