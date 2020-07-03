@@ -1,9 +1,10 @@
 [<- SoC List](..)
 
 # Nordic Semiconductor
-- [nRF52840](#nrf52840)
-- [nRF52832](#nrf52832)
-- [nRF51822](#nrf51822)
+- [Nordic Semiconductor](#nordic-semiconductor)
+  - [nRF52840](#nrf52840)
+  - [nRF52832](#nrf52832)
+  - [nRF51822](#nrf51822)
 
 ## nRF52840
 
@@ -20,6 +21,7 @@
 | [Pine64 PineTime](pinetime.md) | $24.99 |
 | [D6](d6.md) |  |
 | [I6HRC](i6hrc.md) |  |
+| [ID107HR/ID115HR](id1xx.md) | |
 
 ## nRF51822
 
