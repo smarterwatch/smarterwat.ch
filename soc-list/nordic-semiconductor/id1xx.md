@@ -3,6 +3,8 @@ The internals of both devices are very similar and share a lot of hardware.
 
 SWD programming test points can be found on the back of both PCBs
 - [ ] TODO: PCB pictures and SWD pinout
+
+___
 ## ID107+HR
 | Component | Datasheet |
 |-|-|
