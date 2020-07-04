@@ -1,17 +1,16 @@
 [<- SoC List](..)
 
 # Nordic Semiconductor
-- [Nordic Semiconductor](#nordic-semiconductor)
-  - [nRF52840](#nrf52840)
-  - [nRF52832](#nrf52832)
-  - [nRF51822](#nrf51822)
+- [nRF52840](#nrf52840)
+- [nRF52832](#nrf52832)
+- [nRF51822](#nrf51822)
 
 ## nRF52840
 
 | Device | Price |
 |-|-:|
-| [SG2](sg2.md) | $39.67 |
 | [ID205L](id205l.md) | $25.39 |
+| [SG2](sg2.md) | $39.67 |
 
 ## nRF52832
 
