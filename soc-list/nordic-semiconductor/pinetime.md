@@ -12,7 +12,7 @@ Pine64 PineTime
 | Hynitron CST816S / CST716S | [Link](http://files.pine64.org/doc/datasheet/pinetime/CST816S%E6%95%B0%E6%8D%AE%E6%89%8B%E5%86%8CV1.1.pdf) |
 | Bosch BMA421 Accelerometer | [Brief](http://files.pine64.org/doc/datasheet/pinetime/BST-BMA421-FL000.pdf), [Link](https://wiki.pine64.org/images/c/cc/Bst-bma400-ds000.pdf)
 | TianYiHeXin HRS3300 Heartrate Sensor | [Link](http://files.pine64.org/doc/datasheet/pinetime/HRS3300%20Heart%20Rate%20Sensor.pdf)|
-| SPI Flash | ~~Link~~ |
+| SPI Flash: XT25F32B | ~~Link~~ |
 | Power Management Unit | ~~Link~~ |
 
 ## Vendors
